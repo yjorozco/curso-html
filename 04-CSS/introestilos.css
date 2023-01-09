@@ -1,0 +1,46 @@
+.colores{
+    color: orangered;
+}
+.color-hexadecimal {
+    color: #c1b098;
+}
+
+.color-rgb {
+    color:rgb(100, 0, 200);
+}
+
+.color-rgba {
+    color:rgba(10, 10, 10, 0.05)
+}
+
+/*fondos*/
+.fondo {
+    /*background-color: cornflowerblue;*/
+    background-image: url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000');
+    background-position: left center;
+}
+
+.fondo-interno {
+    /*background-color: cornflowerblue;*/
+    background-image: url('5559852.jpg');
+    background-position: left center;
+}
+
+/*tamano*/
+
+.ancho {
+    background-color: #bce784;
+    width: 100px;
+}
+.alto {
+    background-color: aquamarine;
+    height: 500px;
+    width: 300px;
+}
+.tarjeta {
+    border-style: solid;
+    border-color: rgb(150,150,150);
+    border-width: 1px;
+    padding: 10px 20px;
+    margin: 10px 20px;
+}
